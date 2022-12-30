@@ -1,4 +1,4 @@
-#Long Practice: Intro to React Forms
+Long Practice: Intro to React Forms
 For this project, you will be creating a user registration form in React. Your form should have the following fields:
 
 Name
